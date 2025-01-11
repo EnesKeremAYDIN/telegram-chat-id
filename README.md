@@ -18,7 +18,7 @@ A simple Python bot that retrieves the chat ID of a Telegram user or group, usef
 
 1. **Clone or Download** this repository:
    ```bash
-   git clone https://github.com/yourusername/telegram-chat-id.git
+   git clone https://github.com/EnesKeremAYDIN/telegram-chat-id.git
    cd telegram-chat-id
    ```
 
