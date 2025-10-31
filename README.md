@@ -1,6 +1,6 @@
 # Telegram Chat ID Finder Bot
 
-A simple Python bot that retrieves the chat ID of a Telegram user or group, useful for setting up bots and integrations that require chat IDs.
+Simple Python bot that retrieves the chat ID of a Telegram user or group, useful for setting up bots and integrations that require chat IDs.
 
 ## Features
 
